@@ -9,3 +9,4 @@ Pro svůj projekt [Pevnostní turistika](http://pevnostnituristika.cz/), který 
 | Datum | Poznámky |
 | ------ | ------ |
 | 4. srpna 2024 | Založení projektu, načrtnutí šablon, modelů a views |
+| 6. srpna 2024 | Konfigurace SASS |
